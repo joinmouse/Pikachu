@@ -2,8 +2,8 @@
 
 ----
 1、绘制皮卡丘 
-http://www.guohezu.me/drawing/PiKaQiu/index.html
+https://joinmouse.github.io/drawing/PiKaQiu/index.html
 
 ----
 2、绘制小猪佩奇 
-http://www.guohezu.me/drawing/PeiQi/peiqi.html
+https://joinmouse.github.io/drawing/PeiQi/peiqi.html
